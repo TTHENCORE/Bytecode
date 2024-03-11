@@ -1,0 +1,36 @@
+To create a light green color by combining green with white, you can use a blend of the two colors. Here's an example of how you can modify the theme table to achieve a light green color with a combination of white:
+
+Light = {
+		MainFrame = Color3.fromRGB(230, 255, 230), -- Light green with a touch of white
+		Minimise = Color3.fromRGB(230, 255, 230),
+		MinimiseAccent = Color3.fromRGB(0,0,0),
+		Maximise = Color3.fromRGB(230, 255, 230),
+		MaximiseAccent = Color3.fromRGB(0,0,0),
+		NavBar = Color3.fromRGB(230, 255, 230),
+		NavBarAccent = Color3.fromRGB(0,0,0),
+		NavBarInvert = Color3.fromRGB(230, 255, 230),
+		TitleBar = Color3.fromRGB(230, 255, 230),
+		TitleBarAccent = Color3.fromRGB(0,0,0),
+		Overlay = Color3.fromRGB(230, 255, 230),
+		Banner = Color3.fromRGB(230, 255, 230),
+		BannerAccent = Color3.fromRGB(0,0,0),
+		Content = Color3.fromRGB(230, 255, 230),
+		Button = Color3.fromRGB(230, 255, 230),
+		ButtonAccent = Color3.fromRGB(0,0,0),
+		ChipSet = Color3.fromRGB(230, 255, 230),
+		ChipSetAccent = Color3.fromRGB(0,0,0),
+		DataTable = Color3.fromRGB(230, 255, 230),
+		DataTableAccent = Color3.fromRGB(0,0,0),
+		Slider = Color3.fromRGB(230, 255, 230),
+		SliderAccent = Color3.fromRGB(0,0,0),
+		Toggle = Color3.fromRGB(230, 255, 230),
+		ToggleAccent = Color3.fromRGB(0,0,0),
+		Dropdown = Color3.fromRGB(230, 255, 230),
+		DropdownAccent = Color3.fromRGB(0,0,0),
+		ColorPicker = Color3.fromRGB(230, 255, 230),
+		ColorPickerAccent = Color3.fromRGB(0,0,0),
+		TextField = Color3.fromRGB(230, 255, 230),
+		TextFieldAccent = Color3.fromRGB(0,0,0),
+}
+
+By setting all the color values to "Color3.fromRGB(230, 255, 230)" (a light green shade with a touch of white), you will achieve a light green color with a combination of white throughout the theme. Feel free to adjust the RGB values to your preference.
